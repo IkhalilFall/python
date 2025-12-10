@@ -39,3 +39,5 @@ def somme_nombres(n):
 
 result = somme_nombres(1000000)
 print("Résultat :", result)
+
+
